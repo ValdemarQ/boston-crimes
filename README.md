@@ -1,3 +1,6 @@
+# Crimes in Boston
+Data from https://www.kaggle.com/ankkur13/boston-crime-data
+
 ## Description
 Explore a dataset using explanatory data analysis techniques. You can explore a dataset from Kaggle (competitions or datasets) or a you can use your own dataset.
 
@@ -18,5 +21,4 @@ Explore a dataset using explanatory data analysis techniques. You can explore a 
 - A Jupyter notebook.
 
 
-# Crimes in Boston
-Data from https://www.kaggle.com/ankkur13/boston-crime-data
+
